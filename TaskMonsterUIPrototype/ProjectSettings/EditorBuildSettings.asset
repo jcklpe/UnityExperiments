@@ -4,4 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ToDoStart.unity
+  - enabled: 1
+    path: Assets/Scenes/ToDoAddTaskOpen.unity
+  - enabled: 1
+    path: Assets/Scenes/MonstersTab.unity
+  - enabled: 1
+    path: Assets/Scenes/QuestTab.unity
